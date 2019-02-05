@@ -2,5 +2,7 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#fafafa</color>
-    <color name="colorAccent">#ffda8b</color>
+    <color name="colorAccent0">#ffda8b</color>
+    <color name="colorAccent">#f0f0f0</color>
+    <color name="noteDragBackground">#3b2c00</color>
 </resources>
